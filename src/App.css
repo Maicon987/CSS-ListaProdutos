@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(218, 209, 209);
+}
+
+.product-list {
+  display: flex;
+  padding: 200px;
+  gap: 20px;
+  justify-content: center;
+}
+
+.product {
+  background-color: white;
+  text-align: center;
+  border-radius: 25px;
+
+  p {
+    color: green;
+  }
+}
